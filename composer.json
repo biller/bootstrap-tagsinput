@@ -1,5 +1,5 @@
 {
-    "name": "Carolynsymonds/bootstrap-tagsinput",
+    "name": "carolynsymonds/bootstrap-tagsinput",
     "description": "bootstrap-tagsinput for packagist",
     "require": {
         "php": ">=5.3.0"
